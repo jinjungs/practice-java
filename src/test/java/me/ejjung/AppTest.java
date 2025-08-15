@@ -1,4 +1,4 @@
-package org.example;
+package me.ejjung;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

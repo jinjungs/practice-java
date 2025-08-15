@@ -1,4 +1,4 @@
-package org.example.interview;
+package me.ejjung.interview;
 
 import java.util.Arrays;
 import java.util.HashMap;

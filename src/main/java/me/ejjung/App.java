@@ -1,4 +1,4 @@
-package org.example;
+package me.ejjung;
 
 /**
  * Hello world!
