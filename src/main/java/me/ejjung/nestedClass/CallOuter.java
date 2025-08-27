@@ -21,5 +21,11 @@ public class CallOuter {
 
         // 5. Run the test for the Local class
         o1.method();
+
+        System.out.println("==========================================");
+
+        // 6. Test reference
+        i1.testPrint();
     }
+
 }
